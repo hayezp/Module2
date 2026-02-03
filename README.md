@@ -1,2 +1,2 @@
 # Module2
-FastBites Food Delivery website (Assignment)
+FastBites Food Delivery website
